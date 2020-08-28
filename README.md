@@ -19,11 +19,6 @@ Ui clone do app mobile do @instagram feito com React Native e as alguns conceito
 
 # Projeto
 
-<h2 style="color:#f5f5f5;">Spoiler👀</h2>
-
-<img style="width:10%; " src="./readmeImages/imgInstagramClone.jpeg"></img>
-
-## Instruções📄
 Caso queira ver como ficou o projeto em tempo real siga estes passos:
 
 1. Instale no seu celular o aplicativo do [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR)
