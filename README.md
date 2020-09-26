@@ -1,8 +1,10 @@
-![app](https://user-images.githubusercontent.com/60306241/94346436-03960f80-0003-11eb-8905-128716db2c16.png)
+
 
 
 # Ui clone 📷Instagram 📱
 Feito por 👨‍💻[João Pedro Resende](https://www.linkedin.com/in/jpresdev)🚀
+
+![app](https://user-images.githubusercontent.com/60306241/94346436-03960f80-0003-11eb-8905-128716db2c16.png)
 
 # Apresentação📄
 
